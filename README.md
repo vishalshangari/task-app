@@ -1,6 +1,6 @@
 
 # Task App Backend
-A simple task RESTful API with persistence to local MongoDB.
+A simple task RESTful API with authentication and persistence to local MongoDB.
 
 ## Quickstart
 Yarn:
